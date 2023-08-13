@@ -1,0 +1,5 @@
+{{#user}
+Name: Anas Khan
+Skills: HTML, CSS, JS, Django , React.JS
+Email: anascoder4@gmail.com
+{{/user}}
